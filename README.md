@@ -20,5 +20,11 @@ TSI is an acronym for <u>Technology & Social Impact</u>. We provide technology a
 
 ### Solutions
 
+#### TSI Digital Foundations
 
+A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalized skill development program for technology aspirants</a> via on-the-job training methods
+
+#### TSI Accelerator
+
+An <a href="https://github.com/tsiconsulting/tsi-accelerator">open source software service wrapper</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce go digital quickly and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
