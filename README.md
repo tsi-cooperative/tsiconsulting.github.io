@@ -32,7 +32,7 @@ An <a href="https://github.com/tsiconsulting/tsi-accelerator">open source softwa
 
 #### Satish Ayyaswami
 
-22+ years of experience in developing and managing technology platforms & teams for medium & large organizations across High Tech, Media, Retail and Financial Services domains. This includes 7+ years entrepreneurship & 7+ years tech leadership roles.
+22+ years of experience in developing and managing technology platforms & teams for medium & large organizations across High Tech, Media, Retail and Financial Services domains. This includes 7+ years entrepreneurship & 7+ years tech leadership roles
 
 <a href="https://www.linkedin.com/in/satishayyaswami">LinkedIn</a>
 
