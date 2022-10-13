@@ -42,3 +42,6 @@ An <a href="https://github.com/tsiconsulting/tsi-accelerator">open source softwa
 PhD from Vrije Universiteit, Amsterdam
 
 <a href="https://www.linkedin.com/in/lakshmi-narasimhan-aa0b23197">LinkedIn</a>
+
+&#169; TSI Consulting LLP <br>
+Coimbatore, India
