@@ -43,5 +43,9 @@ PhD from Vrije Universiteit, Amsterdam
 
 <a href="https://www.linkedin.com/in/lakshmi-narasimhan-aa0b23197">LinkedIn</a>
 
+### Contact Us
+
+<p><a href="mailto:communications@tsiconsulting.in">Send email</a> to communications {at} tsiconsulting {dot} in</p>
+
 &#169; TSI Consulting LLP <br>
 Coimbatore, India
