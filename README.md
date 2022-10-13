@@ -28,3 +28,17 @@ A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalize
 
 An <a href="https://github.com/tsiconsulting/tsi-accelerator">open source software service wrapper</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce go digital quickly and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
+### Team
+
+#### Satish Ayyaswami
+
+22+ years of experience in developing and managing technology platforms & teams for medium & large organizations across High Tech, Media, Retail and Financial Services domains. This includes 7+ years entrepreneurship & 7+ years tech leadership roles.
+
+<a href="https://www.linkedin.com/in/satishayyaswami">LinkedIn</a>
+
+#### Lakshmi Narasimhan
+
+17+ years experience with a Masters in Social Work from the Tata Institute of Social Sciences and a transdisciplinary
+PhD from Vrije Universiteit, Amsterdam
+
+<a href="https://www.linkedin.com/in/lakshmi-narasimhan-aa0b23197">LinkedIn</a>
