@@ -47,5 +47,5 @@ PhD from Vrije Universiteit, Amsterdam
 
 <p><a href="mailto:communications@tsiconsulting.in">Send email</a> to communications {at} tsiconsulting {dot} in</p>
 
-&#169; TSI Consulting LLP <br>
+&#169; 2022 TSI Consulting LLP <br>
 Coimbatore, India
