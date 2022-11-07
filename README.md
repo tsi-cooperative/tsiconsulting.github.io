@@ -49,6 +49,8 @@ PhD from Vrije Universiteit, Amsterdam
 
 A thought leader in emerging tech in rural & financial inclusion, innovation, digital & analytics
 
+<a href="https://www.linkedin.com/in/ntarunkumar/">LinkedIn</a>
+
 ### Contact Us
 
 <p><a href="mailto:communications@tsiconsulting.in">Send email</a> to communications {at} tsiconsulting {dot} in</p>
