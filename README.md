@@ -45,6 +45,10 @@ PhD from Vrije Universiteit, Amsterdam
 
 <a href="https://www.linkedin.com/in/lakshmi-narasimhan-aa0b23197">LinkedIn</a>
 
+#### N.T.Arun Kumar - Mentor
+
+A thought leader in emerging tech in rural & financial inclusion, innovation, digital & analytics
+
 ### Contact Us
 
 <p><a href="mailto:communications@tsiconsulting.in">Send email</a> to communications {at} tsiconsulting {dot} in</p>
