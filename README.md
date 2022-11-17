@@ -26,7 +26,7 @@ A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalize
 
 #### TSI Accelerator
 
-An <a href="https://github.com/tsiconsulting/tsi-accelerator">Opensource Enterprise Information Management System (EIM)</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce go digital quickly and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
+An <a href="https://github.com/tsiconsulting/tsi-accelerator">Opensource Enterprise Solutions Library (ESL)</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce go digital quickly and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
 To know more about the solutions, join the <a href="https://discord.gg/86HT2VhVzS">discord community</a>
 
