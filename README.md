@@ -25,28 +25,11 @@ TSI Digital Accelerator is currently under very early stage of development. We i
 
 ### Team
 
-#### Satish Ayyaswami
+We are a small group of consultants with several years experience in delivering technology & data science solutions and social impact assessment.
 
-22+ years of experience in developing and managing technology platforms & teams for medium & large organizations across High Tech, Media, Retail and Financial Services domains. This includes 7+ years entrepreneurship & 7+ years tech leadership roles
+### Get in touch
 
-<a href="https://www.linkedin.com/in/satishayyaswami">LinkedIn</a>
-
-#### Lakshmi Narasimhan
-
-17+ years experience with a Masters in Social Work from the Tata Institute of Social Sciences and a transdisciplinary
-PhD from Vrije Universiteit, Amsterdam
-
-<a href="https://www.linkedin.com/in/lakshmi-narasimhan-aa0b23197">LinkedIn</a>
-
-#### N.T.Arun Kumar - Mentor
-
-A thought leader in emerging tech in rural & financial inclusion, innovation, digital & analytics
-
-<a href="https://www.linkedin.com/in/ntarunkumar/">LinkedIn</a>
-
-### Contact Us
-
-<p><a href="mailto:communications@tsiconsulting.in">Send email</a> to communications {at} tsiconsulting {dot} in</p>
+<p><a href="mailto:communications@tsiconsulting.in">Reach us </a> at communications {at} tsiconsulting {dot} in</p>
 
 &#169; 2022 TSI Consulting LLP <br>
 Coimbatore, India
