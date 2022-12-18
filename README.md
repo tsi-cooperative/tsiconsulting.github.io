@@ -1,12 +1,12 @@
 <img src="https://avatars.githubusercontent.com/u/111055520?v=4" alt="logo" width="100"/><br>
 ## TSI Consulting LLP
-TSI is an acronym for <u>Technology & Social Impact</u>. We offer Consulting, Mentorship and Opensource Software Support for startups, tech companies & social enterprises.
+TSI is an acronym for <u>Technology & Social Impact</u>. We offer consulting services & opensource solutions for startups, tech companies, social enterprises & organizations implementing digital transformation projects.
 
-### Consulting 
+### Services 
 
 - Tech strategy design
 - Solution architecture, project management and engineering management
-- Tech team development
+- Tech team development & mentoring
 - Monitoring and evaluation
 - Support for Free & Opensource Software (FOSS)
 - Social intervention design and Social Impact Measurement
