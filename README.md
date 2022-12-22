@@ -24,7 +24,7 @@ TSI Digital Accelerator is currently under very early stage of development. We i
 
 ### Team
 
-We are a small group of consultants with several years experience in delivering technology & data science solutions and social impact assessment.
+We are a small group of consultants with several years experience in delivering technology & data science solutions and social impact consulting.
 
 ### Get in touch
 
