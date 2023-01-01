@@ -30,5 +30,5 @@ We are a small group of consultants with several years experience in delivering 
 
 <p><a href="mailto:communications@tsiconsulting.in">Reach us </a> at communications {at} tsiconsulting {dot} in</p>
 
-&#169; 2022 TSI Consulting LLP <br>
+&#169; 2023 TSI Consulting LLP <br>
 Coimbatore, India
