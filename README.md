@@ -6,8 +6,9 @@ TSI is an acronym for <u>Technology & Social Impact</u>. We provide consulting s
 
 - Tech strategy design
 - Solution architecture, project management and engineering management
+- Software Framework Design & Proof-of-Concept development
 - Tech team development & mentoring
-- Support for Free & Opensource Software (FOSS)
+- Support for popular Free & Opensource Software (FOSS)
 - Social Impact Consulting
 
 ### Solutions
