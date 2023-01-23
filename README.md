@@ -4,15 +4,37 @@ TSI is an acronym for <u>Technology & Social Impact</u>. We provide consulting s
 
 ### Services 
 
-- Tech strategy design
-- Solution architecture, project management and engineering management
-- Software Framework Design & Proof-of-Concept development
-- Tech team development & mentoring
-- Setup IT / IS Policy, Standard Operating Procedures and IT Governance Processes  
-- Application Audit & Code Review Support
-- Strategies for reducing technical debt 
-- Support for popular Free & Opensource Software (FOSS)
-- Social Impact Consulting
+### Technology Consulting
+
+#### consulting cto services
+tech direction note creation & roadmap planning, implementation design – inhouse vs outsourced, investor pitches, vendor evaluation, IT governance process design
+
+#### solution architecture and engineering management
+platform design, data model design, API design,  security architecture, cloud infra design, change management & release process, capacity planning, technical debt management, application re-engineering design
+
+#### tech team development
+team composition analysis, tech interviews, on-the-job coaching
+
+#### proof-of-concept / mvp development
+build, manage and transfer custom solutions developed using open source technologies
+
+#### monitoring & evaluation
+information flow reviews, process and tech reviews, code reviews, people & solution risk identification
+
+### Social Impact Consulting
+
+#### social intervention design
+strategy, programme and process design for community-based interventions, particularly engaging grassroots human resources for service delivery
+
+#### monitoring, evaluation and learning systems
+crafting social, economic and environment-related indicators and outcome measures aligned with business purpose
+identifying retrospective and prospective data sources, support to set up data collection pathways and analysis process
+
+#### research
+exploratory enquiries and baseline/endline assessments, mixed methods evaluation of intervention effects, retrospective or prospective, using observational and experimental designs
+
+#### knowledge-for-impact communications
+curating stories from data and perspectives from the field into written communications including presentations, articles, research papers, policy briefs etc
 
 ### Solutions
 
