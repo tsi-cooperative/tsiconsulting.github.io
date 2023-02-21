@@ -46,7 +46,7 @@ A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalize
 
 An Opensource Enterprise Solutions Library that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce accelerate their digital transformation journey and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
-TSI Digital Accelerator is currently under very early stage of development. We invite volunteer software engineers & aspiring developers to join and help us build this project. To know more about the solutions, join the <a href="https://discord.gg/86HT2VhVzS">discord community</a>
+TSI Digital Accelerator is currently under very early stage of development. We invite volunteer software engineers & aspiring developers to join and help us build this project. 
 
 ## Team
 
@@ -54,7 +54,7 @@ We are senior consultants with several years experience in delivering technology
 
 ## Join the community
 
-TSI is building a community for technology professionals working in the social enterprises. Our goal isto help them build cost-effective solutions for their organizations leveraging open source technologies and also assist them with their day-to-day technical issues with support from our extended network of volunteers. Join us by accepting the <a href="https://discord.com/invite/86HT2VhVzS">discord invite</a>.
+TSI is building a community for technology professionals working in the social enterprises. Our goal isto help them build cost-effective solutions for their organizations leveraging open source technologies and also assist them with their day-to-day technical issues with support from our extended network of volunteers. If you are a technology professional working for a social enterprise or a seasoned technology professional interested in volunteering, please consider joining our <a href="https://discord.gg/86HT2VhVzS">discord community</a>.
 
 &#169; 2023 TSI Consulting LLP <br>
 Coimbatore, India
