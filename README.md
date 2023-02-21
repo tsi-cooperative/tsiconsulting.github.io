@@ -52,7 +52,7 @@ TSI Digital Accelerator is currently under very early stage of development. We i
 
 We are senior consultants with several years experience in delivering technology, data science and social impact solutions.
 
-## Join the community
+## Join the Community
 
 TSI is building a community for technology professionals working in the social enterprises. Our goal isto help them build cost-effective solutions for their organizations leveraging open source technologies and also assist them with their day-to-day technical issues with support from our extended network of volunteers. If you are a technology professional working for a social enterprise or a seasoned technology professional interested in volunteering, please consider joining our <a href="https://discord.gg/86HT2VhVzS">discord community</a>.
 
