@@ -38,11 +38,11 @@ curating stories from data and perspectives from the field into written communic
 
 ## Solutions
 
-### TSI Digital Foundations
+#### TSI Digital Foundations
 
 A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalized skill development program for technology aspirants</a> via on-the-job training methods. Check out the <a href="https://github.com/tsiconsulting/tsi-digital-foundations/raw/main/TSI%20Digital%20Foundations%20Handbook%20v0.1.pdf">course handbook</a>
 
-### TSI Digital Accelerator
+#### TSI Digital Accelerator
 
 An Opensource Enterprise Solutions Library that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce accelerate their digital transformation journey and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
