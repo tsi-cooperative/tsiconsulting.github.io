@@ -50,11 +50,11 @@ TSI Digital Accelerator is currently under very early stage of development. We i
 
 ## Team
 
-We are a small group of consultants with several years experience in delivering technology, data science and social impact solutions.
+We are senior consultants with several years experience in delivering technology, data science and social impact solutions.
 
-## Get in touch
+## Join the community
 
-<p><a href="mailto:communications@tsiconsulting.in">Reach us </a> at communications {at} tsiconsulting {dot} in</p>
+TSI is building a community for technology professionals working in the social enterprises. Our goal isto help them build cost-effective solutions for their organizations leveraging open source technologies and also assist them with their day-to-day technical issues with support from our extended network of volunteers. Join us by accepting the <a href="https://discord.com/invite/86HT2VhVzS">discord invite</a>.
 
 &#169; 2023 TSI Consulting LLP <br>
 Coimbatore, India
