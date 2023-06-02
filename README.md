@@ -44,7 +44,7 @@ A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalize
 
 #### TSI Digital Accelerator
 
-An Opensource Enterprise Solutions Library that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce accelerate their digital transformation journey and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
+An <a href="https://github.com/tsiconsulting">Opensource Enterprise Solutions Library</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce accelerate their digital transformation journey and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
 TSI Digital Accelerator is currently under very early stage of development. We invite volunteer software engineers & aspiring developers to join and help us build this project. 
 
