@@ -16,7 +16,7 @@ platform design, data model design, API design,  security architecture, cloud in
 team composition analysis, tech interviews, on-the-job coaching
 
 #### proof-of-concept / mvp development
-build, manage and transfer custom solutions developed using open source technologies
+develop proof-of-concept solutions & provide a jump start to the implementation teams
 
 #### monitoring & evaluation
 information flow reviews, process and tech reviews, code reviews, people & solution risk identification
