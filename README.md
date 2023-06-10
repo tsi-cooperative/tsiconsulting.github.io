@@ -16,7 +16,7 @@ platform design, data model design, API design,  security architecture, cloud in
 team composition analysis, tech interviews, on-the-job coaching
 
 #### proof-of-concept / mvp development
-provide jump start to the implementation teams
+develop proof-of-concepts & provide jump start to the implementation teams
 
 #### monitoring & evaluation
 information flow reviews, process and tech reviews, code reviews, people & solution risk identification
