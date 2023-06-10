@@ -16,7 +16,7 @@ platform design, data model design, API design,  security architecture, cloud in
 team composition analysis, tech interviews, on-the-job coaching
 
 #### proof-of-concept / mvp development
-provide jump start to the implementation teams on custom software development projects
+provide jump starts on custom software projects, train inhouse teams & handover 
 
 #### monitoring & evaluation
 information flow reviews, process and tech reviews, code reviews, people & solution risk identification
