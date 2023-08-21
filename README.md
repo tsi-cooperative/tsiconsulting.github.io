@@ -1,10 +1,10 @@
 <img src="https://avatars.githubusercontent.com/u/111055520?v=4" alt="logo" width="100"/><br>
 # TSI Consulting LLP
-TSI is an acronym for <u>Technology & Social Impact</u>. We provide consulting services and open source solutions for startups, tech companies and social enterprises.
+TSI is an acronym for <u>Technology & Social Impact</u>. We provide Technology Advisory and Social Impact Consulting.
 
 ## Services 
 
-### Technology Consulting
+### Technology Advisory
 
 #### consulting cto services
 tech direction note creation & roadmap planning, implementation design – inhouse vs outsourced, investor pitches, vendor evaluation, IT governance process design
@@ -15,8 +15,8 @@ platform design, data model design, API design,  security architecture, cloud in
 #### tech team development
 team composition analysis, tech interviews, on-the-job coaching
 
-#### proof-of-concept / mvp development
-provide jump starts on custom software projects, train inhouse teams & handover 
+#### proof-of-concept development
+provide jump starts on custom software projects and help validate their viability 
 
 #### monitoring & evaluation
 information flow reviews, process and tech reviews, code reviews, people & solution risk identification
@@ -36,6 +36,7 @@ exploratory enquiries and baseline/endline assessments, mixed methods evaluation
 #### knowledge-for-impact communications
 curating stories from data and perspectives from the field into written communications including presentations, articles, research papers, policy briefs etc
 
+<!--
 ## Solutions
 
 #### TSI Digital Foundations
@@ -46,7 +47,8 @@ A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalize
 
 A set of <a href="https://github.com/tsiconsulting">open source tools</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce accelerate their digital transformation journey and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
-TSI Digital Accelerator is currently under very early stage of development. We invite volunteer software engineers & aspiring developers to join and help us build this project. 
+TSI Digital Accelerator is currently under very early stage of development. We invite volunteer software engineers & aspiring developers to join and help us build this project.
+-->
 
 ## Team
 
