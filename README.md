@@ -48,13 +48,13 @@ A <a href="https://github.com/tsiconsulting/tsi-digital-foundations">personalize
 A set of <a href="https://github.com/tsiconsulting">open source tools</a> that enable organizations across diverse sectors such as finance, health, agriculture, manufacturing, skill development and commerce accelerate their digital transformation journey and capture new value from technologies such as mobile, cloud, data engineering, AI/ML etc
 
 TSI Digital Accelerator is currently under very early stage of development. We invite volunteer software engineers & aspiring developers to join and help us build this project.
--->
+
 
 ## Team
 
 We are senior consultants with several years experience in delivering technology, data science and social impact solutions.
 
-<!--
+
 ## Join the Community
 
 TSI is building a community of technology professionals working for social enterprises. Our goal isto help them build cost-effective solutions for their organizations leveraging open source technologies and also assist them with their day-to-day technical issues with the help of our extended network of volunteers. If you are a technology professional working for a social enterprise or a seasoned technology professional interested in mentoring, please consider joining our <a href="https://discord.gg/86HT2VhVzS">discord community</a>.
