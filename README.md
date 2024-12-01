@@ -1,6 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/111055520?v=4" alt="logo" width="100"/><br>
 # TSI Consulting LLP
-TSI is an acronym for <u>Technology & Social Impact</u>. We provide Technology Advisory, Technology Project Management and Social Impact Consulting. We also maintain a monthly newsletter - <a href="https://techadvisory.substack.com">TSI TechAdvisory Newsletter</a>, that helps Indian businesses navigate digital journeys.
+TSI is an acronym for <u>Technology & Social Impact</u>. 
+
+We provide Technology Advisory, Technology Project Management and Social Impact Consulting. We also maintain a monthly newsletter - <a href="https://techadvisory.substack.com">TSI TechAdvisory Newsletter</a>, that helps Indian businesses navigate digital journeys.
 
 ## Services 
 
