@@ -9,7 +9,7 @@ TSI is an acronym for <u>Technology & Social Impact</u>. We provide Technology A
 #### tech strategy
 tech direction note creation & roadmap planning, implementation design – inhouse vs outsourced, investor pitches, vendor evaluation, IT governance process design
 
-#### solution architecture and project management
+#### solution design
 platform design, data model design, API design,  security architecture, cloud infra design, change management & release process, capacity planning, technical debt management, application re-engineering design
 
 #### tech team development
