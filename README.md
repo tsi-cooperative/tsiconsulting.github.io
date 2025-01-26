@@ -58,5 +58,5 @@ We are senior consultants with several years experience in delivering technology
 
 TSI is building a community of technology professionals working for social enterprises. Our goal isto help them build cost-effective solutions for their organizations leveraging open source technologies and also assist them with their day-to-day technical issues with the help of our extended network of volunteers. If you are a technology professional working for a social enterprise or a seasoned technology professional interested in mentoring, please consider joining our <a href="https://discord.gg/86HT2VhVzS">discord community</a>.
 --> 
-&#169; 2024 TSI Consulting LLP <br>
+&#169; 2025 TSI Consulting LLP <br>
 Coimbatore, India
