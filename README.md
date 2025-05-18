@@ -2,7 +2,7 @@
 # TSI Consulting LLP
 TSI is an acronym for <u>Technology & Social Impact</u>. 
 
-We provide Technology Advisory, Technology Project Management and Social Impact Consulting services.
+We provide Technology Advisory and Technology Project Management services.
 
 ## Services 
 
@@ -20,6 +20,7 @@ team composition analysis, tech interviews, on-the-job coaching
 #### governance
 scrum project management, capacity planning, technical debt management, information flow reviews, process and tech reviews, code reviews, security reviews, people & solution risk identification
 
+<!--
 ### Social Impact Consulting
 
 #### social intervention design
@@ -35,7 +36,6 @@ exploratory enquiries and baseline/endline assessments, mixed methods evaluation
 #### knowledge-for-impact communications
 curating stories from data and perspectives from the field into written communications including presentations, articles, research papers, policy briefs etc
 
-<!--
 ## Solutions
 
 #### TSI Digital Foundations
