@@ -6,7 +6,7 @@ We provide Technology Advisory and Technology Project Management services.
 
 ## Services 
 
-### Technology Advisory & Project Management
+<!-- ### Technology Advisory & Project Management -->
 
 #### tech strategy
 tech direction note creation & roadmap planning, implementation design – inhouse vs outsourced, investor pitches, vendor evaluation, IT governance process design
